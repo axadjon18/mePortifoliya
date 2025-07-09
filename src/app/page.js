@@ -5,7 +5,7 @@ export default function Home() {
 <div>
     <h1 className="text-3xl text-center font-bold ">
       Welcome to My Next.js App!
-      Axadjon
+      Axadjon MM333
     </h1>
 </div>
   );
